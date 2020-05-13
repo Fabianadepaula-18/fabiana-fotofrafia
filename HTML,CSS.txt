@@ -1,0 +1,33 @@
+body{
+    background-image:url("https://catracalivre.com.br/wp-content/uploads/2019/09/the-nature-conservancy-paisagem3-1.jpg");
+    backgound-size: auto 100vh;
+    height:100vh;
+    font-family:Arial;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content:space-around;
+  }
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color:red;
+    text-decoration: underline;
+  }
+  
+  .menu li {
+    list-style:none;
+  }
+  .site-title{
+    text-align: center;
+  }
+  
+  .site-subtitle{
+    font-style: italic;
+    color: grey;
+    text-align: center
+  }
